@@ -1,6 +1,13 @@
 # nlp-study-group
 Collection of links, reference papers and sample code for understanding NLP
 
+# Group project
+**Proposal:** Create a daemonized Linux process that scrapes and stores twitter and quora data in a 
+PostgreSQL database. Perform Bayesian sentiment analysis on the two data sources. 
+```
+P( TwitterSentiment | QuoraSentiment) = P(QS | TS) P(TS) / P(QS)
+```
+
 # Web references
 - [NLP Overview](https://nlpoverview.com/) - Modern Deep Learning Techniques Applied to Natural Language Processing 
 
