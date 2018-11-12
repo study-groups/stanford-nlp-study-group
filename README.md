@@ -11,7 +11,8 @@ P( TwitterSentiment | QuoraSentiment) = P(QS | TS) P(TS) / P(QS)
 
 # Web references
 - [NLP Overview](https://nlpoverview.com/) - Modern Deep Learning Techniques Applied to Natural Language Processing 
-- [NLP Progress](https://nlpprogress.com/)
+- [NLP Progress](https://nlpprogress.com/) - current state-of-the-art for the most common NLP tasks
+- [Fuzzy C-means clustering in R](https://cran.r-project.org/web/packages/ppclust/vignettes/fcm.html)
 
 # Project references
 - [awesome-nlp](https://github.com/keon/awesome-nlp) - goog collection of NLP links
@@ -21,6 +22,7 @@ P( TwitterSentiment | QuoraSentiment) = P(QS | TS) P(TS) / P(QS)
 # Slide decks
 - [NMF and clustering slides from Stanford](https://web.stanford.edu/group/mmds/slides2012/s-park.pdf)
 - [NMF and PCA slides](http://ranger.uta.edu/~chqding/PCAtutorial/PCA-tutor3.pdf)
+- [Andrew Moore from Carnegie Mellon](https://www.autonlab.org/tutorials)
 
 # Tool references
 - [Apache Airflow](https://airflow.apache.org/) - pipeline scheduler based on Directed Acyclic Graphs (DAGs)
@@ -44,4 +46,6 @@ Stanford NLP course Winter 2017
 - https://en.wikipedia.org/wiki/Graph_theory
 - https://en.wikipedia.org/wiki/Bayesian_network
 - https://en.wikipedia.org/wiki/Computational_linguistics
+- https://en.wikipedia.org/wiki/Fuzzy_clustering
+
 
