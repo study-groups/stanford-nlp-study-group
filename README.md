@@ -1,5 +1,6 @@
 # nlp-study-group
-Collection of links, reference papers and sample code for understanding NLP
+Collection of links, reference papers and sample code for studying natural language processing
+(aka computational linguistics).
 
 # Group project
 **Proposal:** Create a daemonized Linux process that scrapes and stores twitter and quora data in a 
@@ -10,6 +11,7 @@ P( TwitterSentiment | QuoraSentiment) = P(QS | TS) P(TS) / P(QS)
 
 # Web references
 - [NLP Overview](https://nlpoverview.com/) - Modern Deep Learning Techniques Applied to Natural Language Processing 
+- [NLP Progress](https://nlpprogress.com/)
 
 # Project references
 - [awesome-nlp](https://github.com/keon/awesome-nlp) - goog collection of NLP links
@@ -25,6 +27,10 @@ looking, covers n-grams, naive bayes classifiers, sentiment, logistic regression
 part-of-speech tagging, sequence processing with recurrent networks, grammers, syntax, statistical parsing, information
 extraction. hidden markov models. 
 
+# Course references
+- [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/syllabus.html) See 
+Stanford NLP course Winter 2017 
+
 # Video references
 - [Stanford NLP course Winter 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) - by [Christopher Manning](https://nlp.stanford.edu/manning/).
 
@@ -33,3 +39,5 @@ extraction. hidden markov models.
 - https://en.wikipedia.org/wiki/Non-negative_matrix_factorization
 - https://en.wikipedia.org/wiki/Graph_theory
 - https://en.wikipedia.org/wiki/Bayesian_network
+- https://en.wikipedia.org/wiki/Computational_linguistics
+
