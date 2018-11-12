@@ -18,6 +18,10 @@ P( TwitterSentiment | QuoraSentiment) = P(QS | TS) P(TS) / P(QS)
 - [Capstone_2016_us_elections](https://github.com/ebadran/thinkfulBC/blob/master/final_capstone/Capstone_2016_us_elections.ipynb)
 — Emile Badran's final project for Thinkful Data Science project.
 
+# Slide decks
+- [NMF and clustering slides from Stanford](https://web.stanford.edu/group/mmds/slides2012/s-park.pdf)
+- [NMF and PCA slides](http://ranger.uta.edu/~chqding/PCAtutorial/PCA-tutor3.pdf)
+
 # Tool references
 - [Apache Airflow](https://airflow.apache.org/) - pipeline scheduler based on Directed Acyclic Graphs (DAGs)
 
