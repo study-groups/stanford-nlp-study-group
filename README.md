@@ -18,6 +18,7 @@ P( TwitterSentiment | QuoraSentiment) = P(QS | TS) P(TS) / P(QS)
 - [awesome-nlp](https://github.com/keon/awesome-nlp) - goog collection of NLP links
 - [Capstone_2016_us_elections](https://github.com/ebadran/thinkfulBC/blob/master/final_capstone/Capstone_2016_us_elections.ipynb)
 — Emile Badran's final project for Thinkful Data Science project.
+- [NLP Progress - Sebastian Ruder](https://nlpprogress.com/) - List of NLP open source repo projects
 
 # Slide decks
 - [NMF and clustering slides from Stanford](https://web.stanford.edu/group/mmds/slides2012/s-park.pdf)
