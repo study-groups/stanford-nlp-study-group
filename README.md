@@ -9,7 +9,6 @@ Collection of links, reference papers and sample code for understanding NLP
 - [Capstone_2016_us_elections](https://github.com/ebadran/thinkfulBC/blob/master/final_capstone/Capstone_2016_us_elections.ipynb)
 — Emile Badran's final project for Thinkful Data Science project.
 
-
 # Tool references
 - [Apache Airflow](https://airflow.apache.org/) - pipeline scheduler based on Directed Acyclic Graphs (DAGs)
 
@@ -18,6 +17,9 @@ Collection of links, reference papers and sample code for understanding NLP
 looking, covers n-grams, naive bayes classifiers, sentiment, logistic regression, vector semantics, neural nets,
 part-of-speech tagging, sequence processing with recurrent networks, grammers, syntax, statistical parsing, information
 extraction. hidden markov models. 
+
+# Video references
+- [Stanford NLP course Winter 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) - by [Christopher Manning](https://nlp.stanford.edu/manning/).
 
 # Wikipedia references
 - https://en.wikipedia.org/wiki/Natural_language_processing
