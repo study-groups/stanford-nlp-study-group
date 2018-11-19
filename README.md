@@ -10,13 +10,13 @@ P( TwitterSentiment | QuoraSentiment) = P(QS | TS) P(TS) / P(QS)
 ```
 
 # Web references
+- [awesome-nlp](https://github.com/keon/awesome-nlp) - goog collection of NLP links
 - [NLP Overview](https://nlpoverview.com/) - Modern Deep Learning Techniques Applied to Natural Language Processing 
 - [NLP Progress - Sebastian Ruder](https://nlpprogress.com/) - Current state-of-the-art for the most common NLP tasks
 - [NLP Blog - Sebasian Ruder](http://ruder.io/word-embeddings-1/) - Good explanation of NLP history and methodology
-- [Fuzzy C-means clustering in R](https://cran.r-project.org/web/packages/ppclust/vignettes/fcm.html)
+- [Fuzzy C-means clustering in R](https://cran.r-project.org/web/packages/ppclust/vignettes/fcm.html) Clustering example in R using Iris data.
 
 # Project references
-- [awesome-nlp](https://github.com/keon/awesome-nlp) - goog collection of NLP links
 - [Capstone_2016_us_elections](https://github.com/ebadran/thinkfulBC/blob/master/final_capstone/Capstone_2016_us_elections.ipynb)
 — Emile Badran's final project for Thinkful Data Science project.
 
