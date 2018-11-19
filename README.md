@@ -11,7 +11,8 @@ P( TwitterSentiment | QuoraSentiment) = P(QS | TS) P(TS) / P(QS)
 
 # Web references
 - [NLP Overview](https://nlpoverview.com/) - Modern Deep Learning Techniques Applied to Natural Language Processing 
-- [NLP Progress](https://nlpprogress.com/) - current state-of-the-art for the most common NLP tasks
+- [NLP Progress - Sebastian Ruder](https://nlpprogress.com/) - Current state-of-the-art for the most common NLP tasks
+- [NLP Blog - Sebasian Ruder](http://ruder.io/word-embeddings-1/) - Good explanation of NLP history and methodology
 - [Fuzzy C-means clustering in R](https://cran.r-project.org/web/packages/ppclust/vignettes/fcm.html)
 
 # Project references
