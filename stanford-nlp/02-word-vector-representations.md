@@ -100,7 +100,7 @@
     - theta_grad = evaluate_gradient(J,**corpus**,theta)
     - theta = theta - alpha * theta_grad
 
-- Stochastic Gradient Descent:  [1:16:00](https://www.youtube.com/watch?v=ERibwqs9p38&t=1h16m00s)
+- Stochastic Gradient Descent: [1:16:00](https://www.youtube.com/watch?v=ERibwqs9p38&t=1h16m00s)
   - We don't consider every window
   - just take one center word and calculate the gradient
   - very bad estimate at one position
@@ -109,6 +109,7 @@
     - theta = theta - alpha * theta_grad
 
 # References
-- [wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)
+- [Stanford Encyclopedia of Philosophy on Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)
+- [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
 - [how_does_word2vec_work](http://www.1-4-5.net/~dmm/ml/how_does_word2vec_work.pdf)
 - [tensor flow example](https://www.tensorflow.org/tutorials/representation/word2vec)
