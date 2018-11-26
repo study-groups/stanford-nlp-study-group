@@ -1,6 +1,6 @@
-# lecture 2: Word Vector Representations: word2vec
+# Lecture 2: Word Vector Representations: word2vec
 
-# Summary
+# Lecture Plan
 
 # Highlights
 
