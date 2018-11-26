@@ -81,7 +81,7 @@
  - smoothing function and position significant
  
 ## Word2vect objective function gradients: [47:20](https://www.youtube.com/watch?v=ERibwqs9p38&t=47m20s)
-- partial derivative w.r.t. v_c: [52:20](https://www.youtube.com/ partial derivative:watch?v=ERibwqs9p38&t=52m20s)
+- partial derivative w.r.t. v_c: [52:20](https://www.youtube.com/watch?v=ERibwqs9p38&t=52m20s)
 - good to work out vector derivatives
 - chain rule: [55:00](https://www.youtube.com/ partial derivative:watch?v=ERibwqs9p38&t=55m00s)
   - back-prop is chain rule plus memoization (store intermediate values)
