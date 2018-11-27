@@ -113,3 +113,4 @@
 - [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
 - [how_does_word2vec_work](http://www.1-4-5.net/~dmm/ml/how_does_word2vec_work.pdf)
 - [tensor flow example](https://www.tensorflow.org/tutorials/representation/word2vec)
+- [Word2Vec Giant Leap in Language Processing] (https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
