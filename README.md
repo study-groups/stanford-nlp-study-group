@@ -3,7 +3,6 @@ Collection of links, reference papers and sample code for studying natural langu
 (aka computational linguistics).
 
 ## Current focus:
-- [Lecture 2 Stanford NLP on word2vec](https://www.youtube.com/watch?v=ERibwqs9p38)
 - [Notes on lecture 2](./stanford-nlp/02-word-vector-representations.md)
 
 # Group project
