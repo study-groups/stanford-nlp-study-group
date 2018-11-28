@@ -12,8 +12,6 @@
 - Reseach highlight: [42:30](https://www.youtube.com/watch?v=ERibwqs9p38&t=42m30s)
 - Word2vect objective function gradients: [47:20](https://www.youtube.com/watch?v=ERibwqs9p38&t=47m20s)
 - Optimization refresher: [1:12:00](https://www.youtube.com/watch?v=ERibwqs9p38&t=1h12m00s)
-- Assignment 1 notes
-- Usefulness of word2vec:
 
 # Highlights
 ## Word meaning
@@ -123,4 +121,4 @@
   - http://web.stanford.edu/class/cs224n/syllabus.html
   - [skip-gram-tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/#)
   - [distributed-representation-paper](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-  -[Efficient Estimation of Word Representations in Vector Space by Tomas Mikolov] https://arxiv.org/pdf/1301.3781.pdf)
+  -[Efficient Estimation of Word Representations in Vector Space by Tomas Mikolov](https://arxiv.org/pdf/1301.3781.pdf)
