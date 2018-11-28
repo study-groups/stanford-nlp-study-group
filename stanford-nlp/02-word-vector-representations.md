@@ -1,4 +1,9 @@
 # Lecture 2: Word Vector Representations: word2vec
+[Lecture 2 Stanford NLP on word2vec](https://www.youtube.com/watch?v=ERibwqs9p38)
+  - [slides](http://web.stanford.edu/class/cs224n/lectures/lecture2.pdf)
+  - [HW#1](http://web.stanford.edu/class/cs224n/assignment1/index.html)
+  - [HW#1-solutions](http://web.stanford.edu/class/cs224n/assignment1/assignment1-solution.pdf)
+
 
 # Lecture Plan
 - Lecture plan: [2:28](https://www.youtube.com/watch?v=ERibwqs9p38&t=2m28s)
@@ -83,9 +88,9 @@
 ## Word2vect objective function gradients: [47:20](https://www.youtube.com/watch?v=ERibwqs9p38&t=47m20s)
 - partial derivative w.r.t. v_c: [52:20](https://www.youtube.com/watch?v=ERibwqs9p38&t=52m20s)
 - good to work out vector derivatives
-- chain rule: [55:00](https://www.youtube.com/ partial derivative:watch?v=ERibwqs9p38&t=55m00s)
+- chain rule: [55:00](https://www.youtube.com/watch?v=ERibwqs9p38&t=55m00s)
   - back-prop is chain rule plus memoization (store intermediate values)
-  - result: [1:04:00](https://www.youtube.com/ partial derivative:watch?v=ERibwqs9p38&t=1h04m00s)
+  - result: [1:04:00](https://www.youtube.com/watch?v=ERibwqs9p38&t=1h04m00s)
     - observed - expectation
     - u_o      - sum_over_x [ p( x | c) * u_x]
     - output context - probability of every possible word appearing in the context * take that much of u_x expectation vector 
@@ -114,3 +119,8 @@
 - [how_does_word2vec_work](http://www.1-4-5.net/~dmm/ml/how_does_word2vec_work.pdf)
 - [tensor flow example](https://www.tensorflow.org/tutorials/representation/word2vec)
 - [Word2Vec Giant Leap in Language Processing](https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
+## Assignment info
+  - http://web.stanford.edu/class/cs224n/syllabus.html
+  - [skip-gram-tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/#)
+  - [distributed-representation-paper](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+  -[Efficient Estimation of Word Representations in Vector Space by Tomas Mikolov] https://arxiv.org/pdf/1301.3781.pdf)
