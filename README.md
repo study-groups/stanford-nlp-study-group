@@ -4,6 +4,8 @@ Collection of links, reference papers and sample code for studying natural langu
 
 ## Current focus:
 - [Notes on lecture 2](./stanford-nlp/02-word-vector-representations.md)
+- [Notes on lecture 3](./stanford-nlp/03-glove.md)
+
 
 # Group project
 **Proposal:** Create a daemonized Linux process that scrapes and stores twitter and quora data in a 
