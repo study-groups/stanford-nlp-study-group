@@ -3,8 +3,8 @@ Collection of links, reference papers and sample code for studying natural langu
 (aka computational linguistics).
 
 ## Current focus:
-- [Notes on lecture 2](./stanford-nlp/02-word-vector-representations.md)
-- [Notes on lecture 3](./stanford-nlp/03-glove.md)
+- [Notes on lecture 2](./stanford-nlp/02-word-vector-representations.md) (word2vec)
+- [Notes on lecture 3](./stanford-nlp/03-glove.md) (GloVe)
 
 
 # Group project
