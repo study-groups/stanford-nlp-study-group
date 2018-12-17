@@ -3,7 +3,7 @@ Collection of links, reference papers and sample code for studying natural langu
 (aka computational linguistics).
 
 ## Current lecture:
-- [Notes on lecture 4](./stanford-nlp/04-widows-nn.md) (Word Window Classification and Neural Networks, notes in progress)
+- [Notes on lecture 4](./stanford-nlp/04-windows-nn.md) (Word Window Classification and Neural Networks, notes in progress)
 
 ## Previous lectures:
 - [Notes on lecture 2](./stanford-nlp/02-word-vector-representations.md) (word2vec)
