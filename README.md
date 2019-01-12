@@ -43,7 +43,7 @@ part-of-speech tagging, sequence processing with recurrent networks, grammers, s
 extraction. hidden markov models. 
 
 # Courses
-- [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/syllabus.html) See 
+- [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/syllabus.shtml) See 
 Stanford NLP course Winter 2017 
 
 # Videos
