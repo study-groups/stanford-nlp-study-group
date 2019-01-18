@@ -18,6 +18,7 @@ P( TwitterSentiment | QuoraSentiment) = P(QS | TS) P(TS) / P(QS)
 ```
 
 # Links
+- [PyTorch at Udemy](https://github.com/udacity/deep-learning-v2-pytorch)
 - [awesome-nlp](https://github.com/keon/awesome-nlp) - goog collection of NLP links
 - [NLP Overview](https://nlpoverview.com/) - Modern Deep Learning Techniques Applied to Natural Language Processing 
 - [NLP Progress - Sebastian Ruder](https://nlpprogress.com/) - Current state-of-the-art for the most common NLP tasks
