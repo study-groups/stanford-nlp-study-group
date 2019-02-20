@@ -1,7 +1,11 @@
-# nlp-study-group
-Collection of links, reference papers and sample code for studying natural language processing
-(aka computational linguistics).
+# stanford-nlp-study-group
+.Welcome to Standford Natural Language Processing study group. This is a study-guide for the 
+course CS224n
 
+## Who can join
+Anyone. These are collections of open-source material helping fully understand the current
+undergraduate curriculum at Stanford's NLP department.
+ 
 ## Current lecture:
 - [Notes on lecture 4](./stanford-nlp/04-windows-nn.md) (Word Window Classification and Neural Networks, notes in progress)
 
