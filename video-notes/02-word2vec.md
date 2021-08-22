@@ -1,6 +1,6 @@
 # Lecture 2: Word Vector Representations: word2vec
 [Lecture 2 Stanford NLP on word2vec](https://www.youtube.com/watch?v=ERibwqs9p38)
-  - [slides](http://web.stanford.edu/class/cs224n/lectures/lecture2.pdf)
+  - [slides](https://github.com/study-groups/stanford-nlp-study-group/blob/master/web2017/lectures/cs224n-2017-lecture2.pdf)
 
 
 # Lecture Plan
